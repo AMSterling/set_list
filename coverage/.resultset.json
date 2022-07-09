@@ -245,6 +245,9 @@
           1,
           1,
           1,
+          1,
+          1,
+          1,
           null
         ]
       },
@@ -254,13 +257,103 @@
           null
         ]
       },
+      "/Users/sterling/turing/2mod/lessons/set_list/spec/features/artists/songs/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/sterling/turing/2mod/lessons/set_list/spec/features/songs/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/sterling/turing/2mod/lessons/set_list/spec/models/artist_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/sterling/turing/2mod/lessons/set_list/app/models/artist.rb": {
         "lines": [
           1,
           1,
           null,
           1,
-          3,
+          4,
           null,
           null
         ]
@@ -272,9 +365,42 @@
           null
         ]
       },
+      "/Users/sterling/turing/2mod/lessons/set_list/spec/models/song_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null
+        ]
+      },
       "/Users/sterling/turing/2mod/lessons/set_list/app/models/song.rb": {
         "lines": [
           1,
+          1,
+          null
+        ]
+      },
+      "/Users/sterling/turing/2mod/lessons/set_list/app/controllers/artists_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/sterling/turing/2mod/lessons/set_list/app/controllers/application_controller.rb": {
+        "lines": [
           1,
           null
         ]
@@ -289,12 +415,6 @@
           null
         ]
       },
-      "/Users/sterling/turing/2mod/lessons/set_list/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
       "/Users/sterling/turing/2mod/lessons/set_list/app/controllers/songs_controller.rb": {
         "lines": [
           1,
@@ -303,12 +423,12 @@
           null,
           null,
           1,
-          1,
+          3,
           null,
           null
         ]
       }
     },
-    "timestamp": 1657072733
+    "timestamp": 1657397258
   }
 }
