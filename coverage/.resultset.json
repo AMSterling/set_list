@@ -250,12 +250,46 @@
           1,
           1,
           1,
+          1,
           null
         ]
       },
       "/Users/sterling/turing/2mod/lessons/set_list/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/sterling/turing/2mod/lessons/set_list/spec/features/artists/edit_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -412,7 +446,7 @@
         "lines": [
           1,
           1,
-          5,
+          7,
           null,
           null,
           1,
@@ -433,6 +467,13 @@
           1,
           null,
           null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
           1,
           2,
           null,
@@ -469,6 +510,6 @@
         ]
       }
     },
-    "timestamp": 1657413386
+    "timestamp": 1657416380
   }
 }

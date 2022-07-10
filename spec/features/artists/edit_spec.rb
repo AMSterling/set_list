@@ -20,7 +20,7 @@ RSpec.describe 'the artist edit' do
     click_button 'Edit Eton John'
 
     fill_in 'Name', with: 'Elton John'
-    
+
     click_button 'Update Artist'
 
     expect(current_path).to eq('/artists')
